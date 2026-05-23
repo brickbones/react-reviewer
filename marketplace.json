@@ -1,0 +1,19 @@
+{
+  "name": "react-reviewer",
+  "owner": {
+    "name": "brickbones"
+  },
+  "metadata": {
+    "description": "A React code review agent for Cowork"
+  },
+  "plugins": [
+    {
+      "name": "react-reviewer",
+      "description": "Reviews React/JSX code for optimizations, errors, TypeScript issues, and testing gaps.",
+      "source": {
+        "type": "path",
+        "path": "."
+      }
+    }
+  ]
+}
