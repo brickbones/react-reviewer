@@ -1,0 +1,16 @@
+{
+  "name": "react-reviewer",
+  "version": "0.1.0",
+  "description": "Reviews React/JSX code for optimizations, errors, TypeScript issues, and test coverage gaps. Outputs a graphical summary report.",
+  "author": {
+    "name": "Jose Fremaint",
+    "email": "ieatwebsites@gmail.com"
+  },
+  "agents": [
+    {
+      "name": "react-reviewer",
+      "path": "agents/react-reviewer/AGENT.md",
+      "description": "Paste your React code and get a full review with a visual summary"
+    }
+  ]
+}
