@@ -12,7 +12,7 @@
       "description": "Reviews React/JSX code for optimizations, errors, TypeScript issues, and testing gaps.",
       "source": {
         "type": "path",
-        "path": "."
+        "path": "https://github.com/brickbones/react-reviewer.git"
       }
     }
   ]
