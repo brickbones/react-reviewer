@@ -11,8 +11,8 @@
       "name": "react-reviewer",
       "description": "Reviews React/JSX code for optimizations, errors, TypeScript issues, and testing gaps.",
       "source": {
-        "source": "github",
-        "repo": "brickbones/react-reviewer"
+        "source": "url",
+        "url": "https://github.com/brickbones/react-reviewer.git"
       }
     }
   ]
